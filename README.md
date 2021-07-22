@@ -1,3 +1,5 @@
 # Assignment3-
 HashMap vs Binary Search Tree 
-The MechPart files and the demo files were provided to me by the university and i had to code the functionality.
+This project tests the speeds of binary search trees and hashmaps and compares the results.
+The project was written for a university assignment. 
+
